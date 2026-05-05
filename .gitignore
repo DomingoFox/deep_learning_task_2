@@ -1,0 +1,6 @@
+# Dataset
+data/
+
+# Trained LoRA adapter + model outputs
+lt_summary_lora_adapter/
+lt_summary_lora_model/
